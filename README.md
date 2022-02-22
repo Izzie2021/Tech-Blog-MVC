@@ -48,4 +48,4 @@ To meet the acceptance criteria, I did the following:
 -  Input code and file structures for challenge 14
 -  
 
-[Link to deployed application]()
+[Link to deployed application](https://izzie2021.github.io/Tech-Blog-MVC/)
